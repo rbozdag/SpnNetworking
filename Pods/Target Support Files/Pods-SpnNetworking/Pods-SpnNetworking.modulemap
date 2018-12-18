@@ -1,0 +1,6 @@
+framework module Pods_SpnNetworking {
+  umbrella header "Pods-SpnNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}

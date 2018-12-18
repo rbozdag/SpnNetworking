@@ -1,0 +1,6 @@
+framework module Pods_SpnNetworkingTests {
+  umbrella header "Pods-SpnNetworkingTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
